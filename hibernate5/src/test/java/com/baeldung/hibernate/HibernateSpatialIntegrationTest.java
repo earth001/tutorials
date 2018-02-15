@@ -24,7 +24,7 @@ import static org.junit.Assert.assertEquals;
 
 import static org.junit.Assert.assertTrue;
 
-public class HibernateSpatialTest {
+public class HibernateSpatialIntegrationTest {
 
     private Session session;
     private Transaction transaction;

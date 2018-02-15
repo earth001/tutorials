@@ -15,7 +15,7 @@ import java.util.TimeZone;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class TemporalValuesTest {
+public class TemporalValuesIntegrationTest {
 
     private Session session;
 
